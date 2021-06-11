@@ -1,0 +1,8 @@
+---
+topic:
+  request:  request-queue
+  reply:    reply-queue
+
+---
+kafka:
+  bootstrapAddress: localhost:9092
